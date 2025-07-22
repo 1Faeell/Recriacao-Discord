@@ -2,6 +2,8 @@
 
 Este projeto é uma **reinterpretação visual** do site oficial do Discord, feito com **HTML5 e CSS3 puros**, com foco em **layout responsivo**, **organização visual** e boas práticas de desenvolvimento front-end.
 
+Link do Projeto: https://1faeell.github.io/Recriacao-Discord/
+
 ---
 
 ## 🎯 Objetivo
